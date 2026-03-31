@@ -125,13 +125,12 @@ Even in its current form, the device acts as a functional “third hand,” capa
 * Ability to hold and stabilize tools (e.g., screwdriver)
 * Natural curling motion toward the palm
 
+![tt2](https://github.com/user-attachments/assets/ec74759a-61b5-46f6-ac58-fd1823b2ea9b)
+![tt1](https://github.com/user-attachments/assets/fc3dc3eb-b754-4c78-a96d-d2acd05b4c34)
 
 
-https://github.com/user-attachments/assets/0a5c212e-0fbb-423b-883d-19cf708ce9a1
 
-
-
-https://github.com/user-attachments/assets/ec5b03b5-4215-40a0-b7c8-aad188f1114d
+https://github.com/user-attachments/assets/95314fa1-27f8-4b96-a416-c7dec5d9dda4
 
 
 ---
